@@ -1,0 +1,12 @@
+librerias:
+
+pip install PyPDF2
+
+pip install pdf2image
+
+pip install opencv-python
+
+pip install pyinstaller
+
+
+pyinstaller --onefile main.py
